@@ -5,7 +5,8 @@
   This is a text editor that can be installed.
 
 
-
+ github repository : https://github.com/yordanop/invents-jogged-mats
+ deployed app : https://text-editor-kkt8.onrender.com
   ## Questions
 
   My email : yordanopv@gmail.com
